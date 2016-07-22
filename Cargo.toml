@@ -1,0 +1,6 @@
+[package]
+name = "r3v0lvr"
+version = "0.1.0"
+authors = ["w338 <w338trash@yahoo.com>"]
+
+[dependencies]
